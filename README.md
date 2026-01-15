@@ -2,4 +2,4 @@
 18:57 Succesful SSH key
 19:41 Check for changes
 21:50 Changes made from Ubuntu
-
+21:52 Changes made from Mac
