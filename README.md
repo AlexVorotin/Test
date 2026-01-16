@@ -5,4 +5,5 @@
 21:52 Changes made from Mac
 09:31 16.01.2026 New key test
 10:03 16.01.2026 Changes from Ubuntu
+10:35 16.01.2026 ed25519 SSH-key
 
